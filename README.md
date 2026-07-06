@@ -301,4 +301,10 @@ Currently learning Machine Learning, AI Automation, and Data Science using Pytho
 
 ---
 
+## 🖼 Machine Learning Pipeline Workflow
+
+The following workflow shows the complete machine learning pipeline used in this project.
+
+![Machine Learning Pipeline](images/ml_pipeline_workflow.png)
+
 If you found this repository useful, consider giving it a ⭐.
