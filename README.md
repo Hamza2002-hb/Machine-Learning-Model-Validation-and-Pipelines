@@ -1,4 +1,13 @@
-# Machine Learning Model Evaluation and Pipelines
+## Table of Contents
+
+- Project Overview
+- Technologies Used
+- Project Structure
+- Machine Learning Workflow
+- Topics Covered
+- Repository Highlights
+- Future Improvements
+- Author# Machine Learning Model Evaluation and Pipelines
 
 A complete collection of machine learning experiments demonstrating model evaluation, regression, clustering, regularization, validation techniques, and production-ready machine learning pipelines using Scikit-Learn.
 
