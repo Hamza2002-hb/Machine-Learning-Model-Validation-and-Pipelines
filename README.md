@@ -4,6 +4,20 @@ A complete collection of machine learning experiments demonstrating model evalua
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?style=for-the-badge&logo=pandas)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 # Project Overview
 
 This repository contains practical implementations of important Machine Learning concepts including:
