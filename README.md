@@ -17,6 +17,14 @@ The repository contains notes, Jupyter notebooks, experiment outputs, and visual
 
 ---
 
+## Machine Learning Pipeline
+
+This diagram shows the complete machine learning workflow used in this project.
+
+<p align="center">
+  <img src="images/ml_pipeline_workflow.png" alt="Machine Learning Pipeline" width="900">
+</p>
+
 # 🎯 Learning Objectives
 
 During this project I learned:
